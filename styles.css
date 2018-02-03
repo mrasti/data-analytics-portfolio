@@ -1,0 +1,180 @@
+body {
+ margin-top: 0px;
+ margin-right: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+}
+
+#about header{
+	margin-right: auto;
+	margin-left: auto;
+	padding: 5% 2.5% 2.5%;
+    font-family: Arial,Verdana,Geneva, sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    line-height: 1.3;
+    background-color: #E3E4FA;
+    box-shadow: 0px 0px 12px 0px;
+}
+
+#about main{
+	width: 65%;
+	margin-right: auto;
+	margin-left: auto;
+    background-color: white;
+	padding: 2% 2.5% 0;
+	line-height: 1.5;
+    font-family: Arial,Verdana,Geneva, sans-serif;
+    font-size: 1.2em;
+    text-align:justify;
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    border:3px solid #F8F8F8;
+}
+
+#projects{
+	width: 65%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 3% 2.5% 0;
+    font-family: Arial,Verdana,Geneva, sans-serif;
+    font-size: 1.1em;
+    text-align:justify;
+}
+
+.single_project{
+  width: 46%;
+  overflow: auto;
+  float: left;
+  margin: 10px;
+}
+
+.single_project h3{
+  margin-bottom: 10px;
+  font-style:normal;
+  text-align: center;
+}
+
+.single_project img{
+  border-radius: 7px;
+}
+
+.single_project p{
+  margin-top: 8px;
+  line-height: 1.4;
+  font-size: 1em;
+}
+
+.single_project a{
+  margin-bottom: 70px;
+  background-color:#67bdcc;
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  display: block;
+  width: 95px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.single_project a:hover{
+  background: #5D8AA8;
+}
+
+#about a{
+  color: #426278;
+}
+
+#about a:hover{
+  color: #67bdcc;
+}
+
+p {
+    margin-bottom:0.2em;
+    margin-top:0.2em
+}
+
+/* -----------------------------project1 and project2 HTML page--------------------------*/
+
+#project_title{
+	margin-right: auto;
+	margin-left: auto;
+	padding: 9% 2.5% 3.5%;
+    font-family: Arial,Verdana,Geneva, sans-serif;
+    font-size: 1.85em;
+    font-stretch:extra-condensed;
+    text-align: center;
+    line-height: 1.3;
+    background-color: #E3E4FA;
+    box-shadow: 0px 0px 12px 0px;
+}
+
+#project{
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+    background-color: white;
+	padding: 2% 2.5% 0;
+	line-height: 1.5;
+    font-family: Arial,Verdana,Geneva, sans-serif;
+    font-size: 1.2em;
+    text-align:justify;
+}
+
+.section_title{
+    font-size: 1.2em;
+    padding: 1.5% 0% 0.5%;
+
+}
+
+#fig1{
+    width: 85%; 
+    display: block; 
+    margin: 0 auto;
+    padding: 0% 2.5% 0%;
+}
+
+#fig2{
+    width: 96%; 
+    display: block; 
+    margin: 0 auto;
+    padding: 2.5% 2.5% 3.5%;
+}
+
+#fig3{
+    width: 94%; 
+    display: block; 
+    margin: 0 auto;
+    padding: 2.5% 2.5% 2.5%;
+}
+
+#fig4{
+    width: 79%; 
+    display: block; 
+    margin: 0 auto;
+    padding: 1.5% 2.5% 2.5%;
+}
+
+#fig5{
+    width: 96%; 
+    display: block; 
+    margin: 0 auto;
+    padding: 1.5% 2.5% 2.5%;
+}
+
+footer{
+	margin-right: auto;
+	margin-left: auto;
+	padding: 6% 2.5% 2.5%;
+    font-family: Arial,Verdana,Geneva, sans-serif;
+    font-size: 1.1em;
+    text-align: center;
+    line-height: 1.3;
+    background-color: #E3E4FA;
+    box-shadow: 0px 0px 2px 0px;
+}
+
