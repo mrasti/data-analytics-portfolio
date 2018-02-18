@@ -59,6 +59,14 @@ body {
   text-align: center;
 }
 
+.single_project h4{
+  margin-top: 4px;
+  margin-bottom: 27px;
+  font-style:normal;
+  text-align: center;
+  font-size: 1.2em;
+}
+
 .single_project img{
   border-radius: 7px;
 }
